@@ -4,10 +4,7 @@ IPL Cricket Dashboard & Analysis (2008-2018)
 The files contain data and dashboards related to Indian Premier League (IPL) cricket matches from 2008 to 2018.
 
 This project provides detailed dashboards and data analysis of IPL matches from 2008 to 2018. It leverages Excel-based visualizations to offer insights into team performances, player achievements, and match outcomes. Explore key metrics like toss decisions, match results, and venue performances to understand the dynamics of the game.
-# Features
-- Visual dashboards for high-level analysis of teams, players, and venues.
-- Match data with fields like player of the match, toss decisions, winners, and umpires.
-- Ideal for cricket analysts, sports statisticians, and enthusiasts.
+
 # Key Features:
 1) Excel Dashboard:
 
